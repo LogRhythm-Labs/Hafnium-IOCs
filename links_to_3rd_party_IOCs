@@ -1,0 +1,9 @@
+Azure-Sentinel: JSON: https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/MSTICIoCs-ExchangeServerVulnerabilitiesDisclosedMarch2021.json
+Azure-Sentinel: CSV: https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/MSTICIoCs-ExchangeServerVulnerabilitiesDisclosedMarch2021.csv
+FireEye: https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html
+Microsoft Security Scripts: https://github.com/microsoft/CSS-Exchange/tree/main/Security
+Microsoft Blog: https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/#scan-log
+Cisco: https://blog.talosintelligence.com/2021/03/threat-advisory-hafnium-and-microsoft.html
+Volexity: https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/
+Red Canary: https://redcanary.com/blog/microsoft-exchange-attacks/?utm_source=twitter&utm_medium=linkedin&utm_campaign=blog
+SIGMA: https://github.com/Neo23x0/signature-base/pull/125
